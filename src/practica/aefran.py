@@ -1,5 +1,5 @@
 ################
-# Nombre - @usuario_github
+# Franco Roma - @aefran
 # UNRN Andina - Introducción a la Ingenieria en Computación
 ################
 
